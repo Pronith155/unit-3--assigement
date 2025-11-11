@@ -1,1 +1,1 @@
-
+A Code of Conduct is essential for open-source projects because people from all over the world collaborate online. It creates a positive and inclusive environment where everyone feels welcome to contribute. It prevents toxic behavior, encourages respectful communication, and builds trust among contributors. Without a Code of Conduct, conflicts and misunderstandings could harm the community and discourage participation.
