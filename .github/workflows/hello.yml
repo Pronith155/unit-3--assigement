@@ -1,0 +1,14 @@
+name: Hello GitHub Actions
+
+on:
+  push:        # Trigger the workflow on every push event
+    branches:
+      - main    # or use '-' to trigger on all branches
+
+jobs:
+  say-hello:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Print Hello Message
+        run: echo "Hello GitHub Actions"
